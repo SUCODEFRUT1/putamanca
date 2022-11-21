@@ -1,0 +1,27 @@
+body{
+    background-color: hsl(212, 45%, 89%) ;
+} 
+
+.card{
+    background-color: rgb(255, 255, 255);
+    width:15vw ;
+    height: 45vh;
+    border-radius: 20px;
+    position: relative;
+    top:20vh ;
+}
+
+.foto{
+    width:13vw ;
+     height: 23vh;
+     padding: 10px;
+     border-radius: 20px;
+ 
+
+}
+
+
+p{
+
+color: lightgrey;
+}
